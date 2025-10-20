@@ -1,4 +1,4 @@
-# Análisis Exploratorio de Datos - Plataforma Educativa
+# Análisis Exploratorio de Datos
 
 ## Descripción del Proyecto
 
@@ -89,7 +89,7 @@ df['month'] = df['datetime'].dt.month_name()
 
 ---
 
-## 📊 Resultados del Análisis
+## Resultados del Análisis
 
 ### Estadísticas Generales
 
@@ -126,17 +126,17 @@ df['month'] = df['datetime'].dt.month_name()
 
 **Por Día de la Semana:**
 - Lunes: 3,519 ingresos
-- Martes: 4,053 ingresos ⭐ (máximo)
+- Martes: 4,053 ingresos  (máximo)
 - Miércoles: 3,888 ingresos
 - Jueves: 3,496 ingresos
 - Viernes: 3,282 ingresos
 - Sábado: 2,423 ingresos
-- Domingo: 1,537 ingresos ❌ (mínimo)
+- Domingo: 1,537 ingresos  (mínimo)
 
 **Por Mes:**
 - Agosto: 1,985 ingresos
 - Septiembre: 5,310 ingresos
-- Octubre: 6,256 ingresos ⭐ (máximo)
+- Octubre: 6,256 ingresos  (máximo)
 - Noviembre: 5,800 ingresos
 - Diciembre: 2,847 ingresos
 
