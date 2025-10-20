@@ -11,8 +11,11 @@ El objetivo principal es identificar patrones de uso, comportamientos de docente
 ## Integrantes
 
 - **Jose Aviles**
+- **CC.1062954360**
 - **Valeria Perez**
+- **CC. 1067846498**
 - **David Cano**
+- **CC. 1062424181**
 
 ### Profesor
 **Larry Pacheco**
