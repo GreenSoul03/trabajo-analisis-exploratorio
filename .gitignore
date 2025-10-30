@@ -1,0 +1,26 @@
+# Claude Code documentation
+CLAUDE.md
+
+# Python virtual environment
+Lib/
+Scripts/
+pyvenv.cfg
+share/
+etc/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
